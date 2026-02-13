@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer<br>Currently learning Full-stack development "MERN stack"
+Software Engineer | Full stack Developer<br>Currently learning Full-stack development "MERN stack"
 
 
 ## 🌐 Socials:
