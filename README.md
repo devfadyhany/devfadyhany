@@ -1,6 +1,6 @@
 <h1>Hi There 👋, I'm Fady Hany</h1>
 <h3>Software Engineer | MERN Stack Developer</h3>
-<a href="https://devfadyhany-portfolio.netlify.app">My Portfolio</a>
+<a href="https://devfadyhany.github.io/Portfolio/">My Portfolio</a>
 
 ---
 
